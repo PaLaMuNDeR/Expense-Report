@@ -1,10 +1,6 @@
 # coding=utf-8
 from docx import Document
-from docx.shared import Inches
 from docx.enum.text import WD_ALIGN_PARAGRAPH
-from docx.enum.style import WD_STYLE_TYPE
-from docx.dml.color import ColorFormat
-from docx.text.run import Font, Run
 from datetime import date
 from docx.shared import RGBColor
 
